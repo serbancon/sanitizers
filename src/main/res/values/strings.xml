@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test application</string>
+    <string name="use_after_free">use-after-free</string>
+    <string name="use_after_free_loop">use-after-free loop</string>
+    <string name="heap_out_of_bounds">heap-out-of-bounds</string>
+    <string name="heap_out_of_bounds_read_loop">heap-out-of-bounds READ loop</string>
+    <string name="double_free">double-free</string>
+    <string name="null_deref">null-deref</string>
+    <string name="java_crash">java crash</string>
+</resources>
